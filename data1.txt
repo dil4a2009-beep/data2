@@ -1,0 +1,9 @@
+
+nama = input("Rizki Kurniawan")
+umur = int(input("17 Tahun"))
+alamat = input("Maja ")
+sekolah = input("SMA Negeri 1 Kalianda ")
+
+print("Nama saya", nama, "berumur", umur, "tahun")
+print("Alamat saya di", alamat)
+print("Saya bersekolah di", sekolah)
